@@ -8,6 +8,26 @@
 ## 👨🏾‍💻 Profile
 
 ### Hi there 👋 I am [Al Augustin](https://alaugustin.com)
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#profile">Profile</a>
+      <!-- <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul> -->
+    </li>
+    <li><a href="#stats">Stats</a></li>
+    <li><a href="#tools">Tools</a></li>
+    <li>
+        <a href="#links">Links</a>
+      <ul>
+        <li><a href="#professional">Professional</a></li>
+        <li><a href="#personal">Personal</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
 Welcome to the GitHub home of Al Augustin.
 
