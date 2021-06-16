@@ -10,13 +10,13 @@
 
 Welcome to the GitHub home of Al Augustin.
 
-### Section Name
+### Stats
 <a href="https://github.com/ALAUGUSTIN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALAUGUSTIN&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALAUGUSTIN&theme=buefy&layout=compact" />
 </a>
 
-### Section Name
+### Tools
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
