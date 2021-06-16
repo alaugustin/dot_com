@@ -3,11 +3,12 @@
 <div align="center">
  <img width="100px" src="https://media-exp1.licdn.com/dms/image/C4E03AQH9h4rLFB1FuQ/profile-displayphoto-shrink_200_200/0/1516305327322?e=1629331200&v=beta&t=nZlnRYKXf_sX7iCr8M_niHbYEEu92yAvRI1WPEKLdYg" align="center" alt="Al Augustin @ GitHub" />
 </div>
+
 ## Profile
 
 ### Hi there 👋 I am [Al Augustin](https://alaugustin.com)
 
-Welcome to the GitHub home of Al Augustin that will house the code for alaugustin.com and show my stats.
+Welcome to the GitHub home of Al Augustin.
 
 ### Section Name
 <a href="https://github.com/ALAUGUSTIN">
