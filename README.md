@@ -1,13 +1,8 @@
+<img src="https://media-exp1.licdn.com/dms/image/C4E03AQH9h4rLFB1FuQ/profile-displayphoto-shrink_200_200/0/1516305327322?e=1629331200&v=beta&t=nZlnRYKXf_sX7iCr8M_niHbYEEu92yAvRI1WPEKLdYg" style="border-radius:50%" align="right" />
+
 # 💻 dot_com
-<div align="center">
-    <img width="100px" style="border-radius: 50%"
-        src="https://media-exp1.licdn.com/dms/image/C4E03AQH9h4rLFB1FuQ/profile-displayphoto-shrink_200_200/0/1516305327322?e=1629331200&v=beta&t=nZlnRYKXf_sX7iCr8M_niHbYEEu92yAvRI1WPEKLdYg"
-        align="center" alt="Al Augustin @ GitHub" />
-</div>
+> Welcome to the GitHub home of Al Augustin.
 
-## 👨🏾‍💻 Profile
-
-### Hi there 👋 I am [Al Augustin](https://alaugustin.com)
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -29,7 +24,9 @@
   </ol>
 </details>
 
-Welcome to the GitHub home of Al Augustin.
+## 👨🏾‍💻 Profile
+Hi there 👋&nbsp;!
+I am [Al Augustin](https://alaugustin.com) and I'm a front-end developer from Toronto, CA.
 
 ### 📊 Stats
 <a href="https://github.com/ALAUGUSTIN">
@@ -69,6 +66,7 @@ Welcome to the GitHub home of Al Augustin.
 - <a href="https://stackoverflow.com/users/1760096/al-augustin">Stack Overflow</a>
 - <a href="https://github.com/alaugustin">GitHub</a>
 
-#### 🎊Social
+#### 🎊 Personal
+- <a href="http://www.alaugustin.com/">Website</a>
 - <a href="https://twitter.com/augustinaa">Twitter</a>
 - <a href="https://www.last.fm/user/o1k">Last.fm</a>
