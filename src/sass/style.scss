@@ -1,3 +1,56 @@
+// GLOBAL -------------------------
 body {
     background: transparent;
+}
+
+h1 {
+    font-size: 2.1rem;
+    margin: (2.8rem/2) 0 (1.68rem/2) 0;
+}
+
+h2 {
+    font-size: 1.78rem;
+    margin: (2.37333rem/2) 0 (1.424rem/2) 0;
+}
+
+// HEADER -------------------------
+#headerImage {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 2.1rem;
+
+    @media screen and (min-width: 768px) {
+        width: 200px;
+
+    }
+}
+
+#nameHolder {
+    font-size: 2.1rem;
+    font-weight: 700;
+    display: block;
+}
+
+.subHeading {
+    margin-top: 0;
+
+    .subText {
+
+        &.smaller {
+            display: block;
+            font-size: 50%;
+        }
+    }
+}
+
+// MAIN -------------------------
+
+// FOOTER -------------------------
+footer {
+    .linkList {
+        li {
+            display: inline-block;
+            margin-right: 1rem;
+        }
+    }
 }

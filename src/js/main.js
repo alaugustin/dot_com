@@ -33,8 +33,6 @@ let aaaDotCom = {
             theCurrentYear = new Date().getFullYear();
 
             yearHolder.innerHTML = theCurrentYear;
-        console.log(yearHolder);
-        console.log(theCurrentYear);
     },
 
 
